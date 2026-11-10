@@ -8,7 +8,7 @@ class Pet:
         # It should decrease the pet's hunger by 1
         # and print a message about feeding the pet
         self.hunger-=1
-        print("Fluffy has been feed")
+        print("Fluffy has been fed")
         print("Fluffy's hunger level: " + str(self.hunger))
 
 # Create a pet
